@@ -18,10 +18,10 @@
 1. In C, as a memory unsafe language, there are some functions that are prone to vulnerable usage. Among them, (`strcpy`, `scanf`, `memcpy`, ...).
 	1. Keep in mind what you saw in the first part (hint: prefix)
 2. Write a script that
-	2. Look for all the occurrences in the symbol tree
-	3. Gather the xref to the function
-	4. For each banned function print the function caller
-	5. Rename these functions with `inspect_` so you can come back to them later
+	1. Look for all the occurrences in the symbol tree
+	2. Gather the xref to the function
+	3. For each banned function print the function caller
+	4. Rename these functions with `inspect_` so you can come back to them later
 	
 
 

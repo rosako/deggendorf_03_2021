@@ -10,7 +10,7 @@ A project should contain target binaries that are somehow related to the same an
 	1. What is it about?
 	2. What does it mean?
 
-4. Try to import it with each of these option, and figure out why these different choices.
+4. Try to import it with each of these options, and figure out why these different choices.
 
 
 ### Our analysis

@@ -38,7 +38,7 @@ Write a Ghidra script to automatically recognize this library. Take your time, s
 
 1. Figure out which patterns, constants, or any other aspect are specific to this library
 2. Write a script that goes through all the symbols and check whether they contain these specific aspects.
-	1. If they do, mark them with a prefix such as (FUNCNAME
+	1. If they do, mark them with a prefix.
 
 
 

@@ -20,7 +20,7 @@
 2. Write a script that
 	1. Look for all the occurrences in the symbol tree
 	2. Gather the xref to the function
-	3. For each banned function print the function caller
+	3. For each banned function print the function callers
 	4. Rename these functions with `inspect_` so you can come back to them later
 	
 
@@ -40,7 +40,7 @@
 	6. Do you see a potential defined structure? (session)
 4. token creation
 	1. Which function is responsible for generating token?
-	2. What's the function's arguments?
+	2. What are the function's arguments?
 	3. How is the authentication token generated? Does it look secure?
 	4. If not, what's wrong?
 5. Look into the `set_nickname` function
